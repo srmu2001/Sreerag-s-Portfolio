@@ -92,6 +92,7 @@ void Game::handleEvents()
         {
             sf::sleep(sf::milliseconds(500));
             this->gameMusic.play();
+            this->gameMusic.setPlayingOffset(sf::seconds(1.3f));
             this->player->setIsAlive(true);
             this->app.setKeyRepeatEnabled(false);
             this->clockForScore.restart().asSeconds();
