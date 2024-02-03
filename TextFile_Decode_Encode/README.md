@@ -1,4 +1,4 @@
-# h1 TEXT - FILE COMPRESSOR/DECOMPRESSOR 
+#  TEXT - FILE COMPRESSOR/DECOMPRESSOR 
 
 •	A desktop application used to compress/decompress a text file featuring Huffman Coding, a lossless, bottom-up compression algorithm. 
 
