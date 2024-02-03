@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\system\draw.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\system\init.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\system\input.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\system\sound.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\system\text.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\system\textures.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\system\util.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\screens\ending.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\screens\hud.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\screens\messageBox.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\screens\stats.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\screens\title.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\ai\aStar.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\ai\LOS.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\entity\entities.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\entity\entityFactory.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\entity\items.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\entity\monsters.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\entity\player.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\fightScene\animations.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\fightScene\combat.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\fightScene\combatMech.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\fightScene\fightScene.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\forest\forest.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\forest\map.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\system\draw.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\system\init.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\system\input.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\system\sound.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\system\text.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\system\textures.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\system\util.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game\screens\ending.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game\screens\hud.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game\screens\messageBox.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game\screens\stats.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game\screens\title.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game\ai\aStar.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game\ai\LOS.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game\entity\entities.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game\entity\entityFactory.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game\entity\items.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game\entity\monsters.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game\entity\player.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game\fightScene\animations.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game\fightScene\combat.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game\fightScene\combatMech.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game\fightScene\fightScene.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game\forest\forest.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game\forest\map.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\common.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\defs.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\main.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\structs.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\system.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
