@@ -180,7 +180,7 @@ void drawPoints(vector<Point> points, Scalar color)
 
     for (int i = 0; i < points.size(); i++)
     {
-        circle(imgOriginal, points[i], 10, color, FILLED);
+        circle(imgOriginal, points[i], 5, color, FILLED);
         line(imgOriginal, points[j[i]], points[j[i + 1]], color, 2);
     }
 
