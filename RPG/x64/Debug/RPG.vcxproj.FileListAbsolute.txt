@@ -1,0 +1,3 @@
+C:\Users\srmu2\source\repos\RPG\RPG\x64\Debug\RPG.exe
+C:\Users\srmu2\source\repos\RPG\x64\Debug\RPG.exe
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\x64\Debug\RPG.exe

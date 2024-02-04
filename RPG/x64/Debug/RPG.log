@@ -1,0 +1,59 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (game4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  LOS.c
+  aStar.c
+  entities.c
+  entityFactory.c
+  items.c
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\game\entity\items.c(108,7): warning C4101: 'text': unreferenced local variable
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\game\entity\items.c(124,7): warning C4101: 'text': unreferenced local variable
+  monsters.c
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\game\entity\monsters.c(159,17): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\game\entity\monsters.c(159,17): warning C4024: 'moveEntity': different types for formal and actual parameter 2
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\game\entity\monsters.c(159,22): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\game\entity\monsters.c(159,22): warning C4024: 'moveEntity': different types for formal and actual parameter 3
+  player.c
+  animations.c
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\game\fightScene\animations.c(44,29): warning C4133: 'function': incompatible types - from 'Texture *' to 'SDL_Texture *'
+  combat.c
+  combatMech.c
+  fightScene.c
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\game\fightScene\fightScene.c(59,38): warning C4133: 'function': incompatible types - from 'Texture *' to 'SDL_Texture *'
+  forest.c
+  map.c
+  ending.c
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\game\screens\ending.c(39,32): warning C4133: 'function': incompatible types - from 'Texture *' to 'SDL_Texture *'
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\game\screens\ending.c(46,32): warning C4133: 'function': incompatible types - from 'Texture *' to 'SDL_Texture *'
+  hud.c
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\game\screens\hud.c(117,17): warning C4133: 'function': incompatible types - from 'Monster *' to 'Entity *'
+  messageBox.c
+  stats.c
+  title.c
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\game\screens\title.c(70,25): warning C4133: 'function': incompatible types - from 'Texture *' to 'SDL_Texture *'
+  main.c
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\main.c(103,24): warning C4018: '>=': signed/unsigned mismatch
+  draw.c
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\system\draw.c(36,19): warning C4133: 'function': incompatible types - from 'Texture *' to 'SDL_Texture *'
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\system\draw.c(46,33): warning C4133: 'function': incompatible types - from 'Texture *' to 'SDL_Texture *'
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\system\draw.c(93,26): warning C4133: 'function': incompatible types - from 'Texture *' to 'SDL_Texture *'
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\system\draw.c(98,27): warning C4133: 'function': incompatible types - from 'Texture *' to 'SDL_Texture *'
+  Generating Code...
+  Compiling...
+  init.c
+  input.c
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\system\input.c(59,12): warning C4101: 'event': unreferenced local variable
+  sound.c
+  text.c
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\system\text.c(39,5): warning C4133: 'return': incompatible types - from 'Texture *' to 'SDL_Texture *'
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\system\text.c(46,5): warning C4133: 'return': incompatible types - from 'Texture *' to 'SDL_Texture *'
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\system\text.c(53,5): warning C4133: 'return': incompatible types - from 'Texture *' to 'SDL_Texture *'
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\system\text.c(60,10): warning C4133: 'function': incompatible types - from 'SDL_Texture *' to 'Texture *'
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\system\text.c(67,10): warning C4133: 'function': incompatible types - from 'SDL_Texture *' to 'Texture *'
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\system\text.c(74,10): warning C4133: 'function': incompatible types - from 'SDL_Texture *' to 'Texture *'
+  textures.c
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\system\textures.c(33,13): warning C4133: 'return': incompatible types - from 'SDL_Texture *' to 'Texture *'
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\system\textures.c(44,13): warning C4133: '=': incompatible types - from 'SDL_Texture *' to 'Texture *'
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\system\textures.c(63,17): warning C4133: '=': incompatible types - from 'SDL_Texture *' to 'Texture *'
+  util.c
+C:\Users\srmu2\Documents\GitHub\Jack\RPG\src\system\util.c(19,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  RPG.vcxproj -> C:\Users\srmu2\Documents\GitHub\Jack\RPG\x64\Debug\RPG.exe
