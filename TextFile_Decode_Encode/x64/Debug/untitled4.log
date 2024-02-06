@@ -1,0 +1,10 @@
+﻿  Generate moc_predefs.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(249,5): warning MSB8064: Custom build for item "debug\moc_predefs.h.cbt" succeeded, but specified dependency "c:\users\srmu2\documents\github\jack\textfile_decode_encode\debug\moc_predefs.h.cbt" does not exist. This may cause incremental build to work incorrectly.
+  dCode.cpp
+  eCode.cpp
+  main.cpp
+  mainwindow.cpp
+eCode.cpp(141,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+dCode.cpp(91,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  moc_mainwindow.cpp
+  untitled4.vcxproj -> C:\Users\srmu2\Documents\GitHub\Jack\TextFile_Decode_Encode\debug\untitled4.exe
