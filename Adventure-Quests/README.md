@@ -8,6 +8,11 @@ Added a .exe file
 
 Windows 8.1 or higher
 
+## RESOURCES
+
+https://craftpix.net/ \
+https://www.freepik.com/
+
 ## INSTRUCTIONS
 
 W,A,S,D - Move in different directions.\
