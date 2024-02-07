@@ -4,7 +4,7 @@ The project aims to develop a document scanner application using C++ and OpenCV,
 
 Added a DocumentScanner.exe located in the RUN folder.
 
-Note: Be sure to close the window tabs
+Note: Be sure to close all the window tabs
 
 ## Compatibility
 
