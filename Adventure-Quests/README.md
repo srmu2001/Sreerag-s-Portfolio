@@ -10,7 +10,7 @@ Windows 8.1 or higher
 
 ## RESOURCES
 
-https://craftpix.net/
+https://craftpix.net/ \
 https://www.freepik.com/
 
 ## INSTRUCTIONS
