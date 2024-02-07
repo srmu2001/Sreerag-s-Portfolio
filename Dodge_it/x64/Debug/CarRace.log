@@ -1,0 +1,139 @@
+﻿  Game.cpp
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\incl\line.hpp(20,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generator.cpp
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\incl\line.hpp(20,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(19,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(33,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(39,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(55,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(61,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(76,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(82,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(87,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(123,32): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(127,33): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(131,32): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(135,33): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(141,32): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(145,33): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(149,32): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(153,33): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(159,33): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(167,33): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(177,33): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(185,33): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(195,33): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(203,33): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(213,32): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(217,33): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(233,32): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(237,33): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(243,33): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(251,32): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(255,33): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(265,32): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Generator.cpp(280,31): warning C4305: '=': truncation from 'double' to 'float'
+  Line.cpp
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\incl\Line.hpp(20,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Line.cpp(13,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Line.cpp(13,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Line.cpp(14,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Line.cpp(14,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Line.cpp(15,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Line.cpp(15,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Line.cpp(16,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Line.cpp(16,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Line.cpp(60,45): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Line.cpp(89,45): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Main.cpp
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\incl\line.hpp(20,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Map.cpp
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\incl\Line.hpp(20,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Map.cpp(116,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Map.cpp(124,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Map.cpp(124,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Map.cpp(129,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Map.cpp(132,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Map.cpp(160,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Map.cpp(160,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Map.cpp(161,109): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Map.cpp(161,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Map.cpp(161,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Map.cpp(161,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Map.cpp(161,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Map.cpp(161,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Map.cpp(162,101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Map.cpp(162,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Map.cpp(162,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Map.cpp(162,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Map.cpp(162,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Map.cpp(162,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Map.cpp(163,113): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Map.cpp(163,100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Map.cpp(163,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Map.cpp(163,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Map.cpp(163,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Map.cpp(163,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Menu.cpp
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\incl\Line.hpp(20,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Menu.cpp(45,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Menu.cpp(45,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Menu.cpp(54,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Menu.cpp(54,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Menu.cpp(254,47): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Menu.cpp(270,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Player.cpp
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\incl\Line.hpp(20,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Player.cpp(30,26): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Player.cpp(64,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Player.cpp(70,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Player.cpp(76,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Player.cpp(80,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Player.cpp(86,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Player.cpp(89,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Player.cpp(251,16): warning C4244: 'return': conversion from 'const int' to 'float', possible loss of data
+  Scoreboard.cpp
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\incl\line.hpp(20,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\src\Menu.cpp(217): warning C4715: 'LoadMenu': not all control paths return a value
+  CarRace.vcxproj -> C:\Users\srmu2\Downloads\Sreerag-s-Portfolio-main\CarRace\x64\Debug\CarRace.exe
