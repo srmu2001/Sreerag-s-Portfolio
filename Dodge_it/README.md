@@ -8,6 +8,10 @@ Added a Dodge_it.exe file
 
 Windows 8.1 or higher
 
+## RESOURCES
+
+https://www.freepik.com/
+
 ## SCREENSHOTS
 
 ![Screenshot (155)](https://github.com/srmu2001/Sreerag-s-Portfolio/assets/158417071/364253c9-c0aa-4c03-a624-d2cc516d64b0)
