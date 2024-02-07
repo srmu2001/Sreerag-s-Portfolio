@@ -10,8 +10,8 @@ Windows 8.1 or higher
 
 ## INSTRUCTIONS
 
-W,A,S,D - Move in different directions.
-ESC - Return to Main Menu.
+W,A,S,D - Move in different directions.\
+ESC - Return to Main Menu.\
 TAB - Shows stats.
 
 ## SCREENSHOTS
