@@ -24,7 +24,7 @@ void Player::initVariables()
     this->speed = 200.0f;
     this->life_collected = 0;
     this->collider.setSize(sf::Vector2f(100, 90));
-    this->collider.setPosition(colliderX, colliderY);
+    this->collider.setPosition(this->colliderX, this->colliderY);
     this->playerSize.x = 264;
     this->playerSize.y = 200; //size of each frame
     this->framesNum = 2;
@@ -61,19 +61,19 @@ void Player::update(Map* map) {
 
     if (map->getScore() == 1000)
     {
-        setSpeed(250.0f);
+        this->setSpeed(250.0f);
         this->setanimDuration(0.40);
 
     }
     if (map->getScore() == 2000)
     {
-        setSpeed(300.0f);
+        this->setSpeed(300.0f);
         this->setanimDuration(0.35);
 
     }
     if (map->getScore() == 3000)
     {
-        setSpeed(350.0f);
+        this->setSpeed(350.0f);
 
         this->setanimDuration(0.30);
     }
@@ -101,20 +101,20 @@ void Player::update(Map* map) {
 
 void Player::collisionTest(Map* map)
 {
-    if (getIsAlive() == true)
+    if (this->getIsAlive() == true)
         if (lines[map->getStartPos() + 5].getObstacleBounds().intersects(collider.getGlobalBounds()))
         {
 
             if (getLifeCollected() == 0)
             {
-                setIsAlive(false);
+                this->setIsAlive(false);
                 this->collideSounds.play();
             }
 
             else if (getLifeCollected() > 0)
             {
                 this->playLifeImp.play();
-                setLifeCollected((getLifeCollected() - 1));
+                this->setLifeCollected((this->getLifeCollected() - 1));
             }
 
         }
@@ -132,6 +132,7 @@ void Player::playerReset()
     this->setPosX(0);
     this->setIsAlive(false);
     this->setLifeCollected(0);
+    this->setSpeed(200.0f);
     this->playerCar.setPosition(width / 2 - 100, height / 2 + 160);
     this->collider.setPosition(this->colliderX, this->colliderY);
 
@@ -169,35 +170,35 @@ void Player::drawPlayer(sf::RenderWindow& app)
 
 void Player::setColliderX(float x)
 {
-    colliderX = x;
+    this->colliderX = x;
 }
 void Player::setColliderY(float y)
 {
-    colliderY = y;
+    this->colliderY = y;
 }
 void Player::setPosZ(int z)
 {
-    posZ = z;
+    this->posZ = z;
 }
 void Player::setPosX(int x)
 { 
-    posX = x;
+    this->posX = x;
 }
 void Player::setIsAlive(bool alive) 
 { 
-    isAlive = alive;
+    this->isAlive = alive;
 }
 void Player::setSpeed(float s) 
 {
-    speed = s;
+    this->speed = s;
 }
 void Player::setLifeCollected(int collected)
 { 
-    life_collected = collected; 
+    this->life_collected = collected; 
 }
 void Player::setanimDuration(float x)
 { 
-    animDuration = x; 
+    this->animDuration = x; 
 }
 void Player::setDelta(float newDelta)
 {
@@ -212,35 +213,35 @@ void Player::setFramesNum(int FrameNo)
 
 float Player::getColliderX() const 
 { 
-    return colliderX; 
+    return this->colliderX; 
 }
 float Player::getColliderY() const 
 {
-    return colliderY;
+    return this->colliderY;
 }
 int Player::getPosZ() const
 {
-    return posZ;
+    return this->posZ;
 }
 int Player::getPosX() const
 {
-    return posX;
+    return this->posX;
 }
 bool Player::getIsAlive() const
 { 
-    return isAlive;
+    return this->isAlive;
 }
 float Player::getSpeed() const 
 { 
-    return speed;
+    return this->speed;
 }
 int Player::getLifeCollected() const 
 { 
-    return life_collected;
+    return this->life_collected;
 }
 float Player::getanimDuration() const 
 { 
-    return animDuration;
+    return this->animDuration;
 }
 float Player::getDelta() const
 {
