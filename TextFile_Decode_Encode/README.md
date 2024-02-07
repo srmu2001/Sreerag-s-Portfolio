@@ -8,4 +8,4 @@ Note: If you're unable to open the .exe, download the Qt Creator from the link: 
 
 ## COMPATIBILITY
 
-Windows 8.1 or higher
+Windows 10 or higher
